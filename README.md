@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,20,24,28&height=210&section=header&text=Rohit%20More&fontSize=50&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Computer%20Vision%20Engineer&descFontSize=18&descAlignY=58&descAlign=50&fontColor=ffffff&descColor=e0f2fe&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f172a,40:1e293b,100:0284c7&height=200&section=header&text=Rohit%20More&fontSize=48&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Computer%20Vision%20Engineer&descFontSize=18&descAlignY=64&fontColor=ffffff&descColor=38bdf8" width="100%" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/rohitmore2020">
