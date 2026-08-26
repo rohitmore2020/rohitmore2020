@@ -15,7 +15,7 @@
     <a href="https://linkedin.com/in/rohitmore2020" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://leetcode.com/u/rohitmore2020/" target="_blank">
+    <a href="https://leetcode.com/u/__rohit_more_20/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
     <a href="mailto:rohitmore737879@gmail.com">
@@ -183,7 +183,7 @@ current_goal: Architecting high-performance SaaS systems & production-grade AI s
         <li><b>Hackathon Recognition</b>: Advanced to Round 2 of Adobe India Hackathon competing with top national teams.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/rohitmore2020/pdf_outline_extractor"><b>View Repository ➔</b></a>
+        <a href="https://github.com/rohitmore2020/pdf_outline_extract"><b>View Repository ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -199,7 +199,7 @@ current_goal: Architecting high-performance SaaS systems & production-grade AI s
         <li><b>Contest Performance</b>: Active participant on LeetCode, CodeForces, and global hackathons.</li>
       </ul>
       <p align="center">
-        <a href="https://leetcode.com/u/rohitmore2020/"><b>Explore LeetCode Profile ➔</b></a>
+        <a href="https://leetcode.com/u/__rohit_more_20/" target="_blank"><b>Explore LeetCode Profile ➔</b></a>
       </p>
     </td>
   </tr>
@@ -211,28 +211,23 @@ current_goal: Architecting high-performance SaaS systems & production-grade AI s
 
 <div align="center">
 
-  <!-- GitHub Readme Stats & Streak Stats -->
+  <!-- GitHub Profile Summary Cards (Tokyo Night Theme) -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rohitmore2020&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F43F5E&text_color=94A3B8&count_private=true&include_all_commits=true" height="175" alt="Rohit's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmore2020&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=F43F5E&fire=F43F5E&currStreakLabel=38BDF8" height="175" alt="Rohit's GitHub Streak" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitmore2020&theme=tokyonight" alt="GitHub Profile Summary" />
   </p>
 
-  <!-- Top Languages & LeetCode Stats -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmore2020&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" height="165" alt="Top Languages" />
-    <img src="https://leetcard.jacoblin.cool/rohitmore2020?theme=dark&font=Fira%20Code" height="165" alt="LeetCode Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitmore2020&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitmore2020&theme=tokyonight" alt="Top Languages" />
   </p>
 
-</div>
+  <p align="center">
+    <a href="https://leetcode.com/u/__rohit_more_20/" target="_blank">
+      <img src="https://leetcard.jacoblin.cool/__rohit_more_20?theme=dark&font=Fira%20Code" height="175" alt="LeetCode Stats" />
+    </a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitmore2020&theme=tokyonight" alt="Productive Time" />
+  </p>
 
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/rohitmore2020">
-    <img src="https://github-profile-trophy.vercel.app/?username=rohitmore2020&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Rohit More GitHub Trophies" />
-  </a>
 </div>
 
 ---
@@ -262,7 +257,7 @@ current_goal: Architecting high-performance SaaS systems & production-grade AI s
     <img src="https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/rohitmore2020/" target="_blank">
+  <a href="https://leetcode.com/u/__rohit_more_20/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Challenge%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 
