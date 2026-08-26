@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f172a,40:1e293b,100:0284c7&height=200&section=header&text=Rohit%20More&fontSize=48&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Computer%20Vision%20Engineer&descFontSize=18&descAlignY=64&fontColor=ffffff&descColor=38bdf8" width="100%" />
+  <h1 align="center">Hi, I'm Rohit More 👋</h1>
+  <p align="center"><b>Full-Stack Developer & AI / Computer Vision Engineer</b></p>
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/rohitmore2020">
@@ -168,10 +168,5 @@
   <a href="https://leetcode.com/u/__rohit_more_20/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-
-  <br/><br/>
-
-  <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,20,24,28&height=80&section=footer" width="100%" />
 
 </div>
